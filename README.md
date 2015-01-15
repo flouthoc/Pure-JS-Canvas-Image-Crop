@@ -7,8 +7,8 @@ Plugin is Not Solid . Still Under Development.
 
 
 #Usage
-1. Clone This 
-2. Paste New "test_image.jpg" is same Directory Run test.html
+> 1. Clone This 
+> 2. Paste New "test_image.jpg" is same Directory Run test.html
 
 #Contributing
 
