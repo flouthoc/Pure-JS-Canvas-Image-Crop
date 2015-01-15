@@ -6,6 +6,10 @@ Plugin is Not Solid . Still Under Development.
 ![ScreenShot](https://www.anonimg.com/img/07f263de80b73d8bb7b6862b81e4b612.png "How Does It Look ?")
 
 
+#Demo
+[Demo Link!](http://argunner.github.io/Pure-JS-Canvas-Image-Crop/test.html)
+
+
 #Usage
 > 1. Clone This 
 > 2. Paste New "test_image.jpg" is same Directory Run test.html
