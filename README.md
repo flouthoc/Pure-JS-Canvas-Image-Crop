@@ -7,8 +7,8 @@ Plugin is Not Solid . Still Under Development.
 
 
 #Usage
-Clone This 
-Paste New "test_image.jpg" is same Directory Run test.html
+1. Clone This 
+2. Paste New "test_image.jpg" is same Directory Run test.html
 
 #Contributing
 
@@ -19,6 +19,6 @@ There are Lots Of Bugs And Fixes I'll Update THis Soon
 
 
 #Shapes Draggin Has Been Cloned From Following Blogs.
-1.(http://rectangleworld.com/blog/archives/129)
-2.(http://simonsarris.com/blog/140-canvas-moving-selectable-shapes)
+1. (http://rectangleworld.com/blog/archives/129)
+2. (http://simonsarris.com/blog/140-canvas-moving-selectable-shapes)
 
