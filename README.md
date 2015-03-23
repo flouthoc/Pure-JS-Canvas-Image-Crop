@@ -7,7 +7,7 @@ Plugin is Not Solid . Still Under Development.
 
 
 #Demo
-[Demo Link!](http://argunner.github.io/Pure-JS-Canvas-Image-Crop/test.html)
+[Demo Link!](http://flouthoc.github.io/Pure-JS-Canvas-Image-Crop/test.html)
 
 
 #Usage
