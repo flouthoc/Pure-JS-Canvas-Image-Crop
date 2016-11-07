@@ -1,8 +1,8 @@
 
 /* Pure Javascript Image Crop Plugin
 
-	Author:argunner(gunnerar7@gmail.com)
-	Github:https://github.com/argunner
+	Author:flouthoc(flouthoc@gmail.com)
+	Github:https://github.com/flouthoc
 
 	Selectable Shape 
 	http://rectangleworld.com/blog/archives/129
